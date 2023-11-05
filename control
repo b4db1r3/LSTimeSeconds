@@ -1,0 +1,9 @@
+controlLSTimeSeconds.plistMakefilepackagesTweak.xPackage: com.b4db1r3.lstimeseconds
+Name: LSTimeSeconds
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: b4db1r3
+Author: b4db1r3
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
