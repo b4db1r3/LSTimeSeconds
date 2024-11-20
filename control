@@ -1,0 +1,8 @@
+Package: com.b4db1r3.lstimeseconds16
+Name: LSTimeSeconds (iOS 15 - 16)
+Version: 0.0.5
+Architecture: iphoneos-arm
+Description: Adds seconds to lockscreen time.
+Maintainer: b4db1r3
+Author: b4db1r3
+Section: Tweaks
